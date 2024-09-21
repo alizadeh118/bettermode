@@ -39,3 +39,4 @@ The GraphQL client is initialized in `graphql/client.ts`.
 - **GraphQL**: API communication
 - **Vite**: Fast development build tool
 - **React Router**: Declarative routing for React applications
+- **Tailwind CSS**: utility-first CSS framework
